@@ -10,12 +10,13 @@
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
-          <root url="file://$MODULE_DIR$/../../+libGdxLibs" />
+          <root url="file://$USER_HOME$/+libGdxLibs" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
-        <jarDirectory url="file://$MODULE_DIR$/../../+libGdxLibs" recursive="false" />
+        <jarDirectory url="file://$USER_HOME$/+libGdxLibs" recursive="false" />
       </library>
     </orderEntry>
+    <orderEntry type="library" name="LibGDX Libs" level="project" />
   </component>
 </module>

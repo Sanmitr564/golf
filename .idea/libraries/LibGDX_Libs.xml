@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="LibGDX Libs">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/LibGDX Libs" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/LibGDX Libs" recursive="false" />
+  </library>
+</component>
