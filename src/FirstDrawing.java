@@ -23,8 +23,7 @@ public class FirstDrawing extends ApplicationAdapter
         viewport = new FitViewport(GLOBAL.WORLD_WIDTH, GLOBAL.WORLD_HEIGHT, camera); 
         renderer = new ShapeRenderer(); 
         font = new BitmapFont(); 
-        batch = new SpriteBatch();//if you want to use images instead of using ShapeRenderer 
-
+        batch = new SpriteBatch();//if you want to use images instead of using ShapeRenderer
     }
 
     @Override//called 60 times a second
